@@ -1,0 +1,10 @@
+target/
+*.log
+.idea/
+.vscode/
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/build/
+frontend/.env*
+src/main/resources/application.yml

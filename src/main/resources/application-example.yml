@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://<mysql_host>:3306/xingmange
+    username: <DB_USERNAME>
+    password: <DB_PASSWORD>
+oss:
+  endpoint: https://oss-<region>.aliyuncs.com
+  bucket-name: <YOUR_BUCKET>
+  access-key-id: <YOUR_AK>
+  access-key-secret: <YOUR_SK>
+  region: <cn-xx>
